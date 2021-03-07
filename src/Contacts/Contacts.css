@@ -1,0 +1,14 @@
+.contacts-title {
+	margin-bottom: 30px;
+}
+.contacts-map {
+	margin-top: 20px;
+	width: 1160px;
+	height: 368px;
+}
+.contacts-adress {
+	display: inline-block;
+}
+.contacts-link {
+	margin: 0px 10px;
+}

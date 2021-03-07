@@ -1,4 +1,8 @@
-header{background: #487922;}
+header {
+	background: url("https://i.ibb.co/xsXK2Rx/header-logo.jpg");
+	height: 165px;
+	position: relative;
+}
 
 .top-bar {
     padding:0px;
