@@ -12,7 +12,7 @@ class Nav extends React.Component {
 				<div className="container">
 					<nav>
 						<ul>
-							<li><Link to="/">Главная</Link></li>
+							<li><Link to="/rate">Главная</Link></li>
 							<li><Link to="/exchange">Пункты обмена</Link></li>
 							<li><Link to="/contacts">Контакты</Link></li>
 						</ul>
